@@ -1,0 +1,6 @@
+build
+dist
+/nbproject/
+Databank.db4o
+/Databank.db4o
+nbproject
